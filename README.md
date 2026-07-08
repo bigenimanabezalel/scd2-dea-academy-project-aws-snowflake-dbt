@@ -1,0 +1,1 @@
+# scd2-dea-academy-project-aws-snowflake-dbt
