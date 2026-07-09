@@ -39,7 +39,7 @@ models:
   jean_dbt_workshop:
       example:
           schema: example 
-     silver:
+      silver:
           schema: silver
           materialized: table
       gold:
